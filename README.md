@@ -35,7 +35,7 @@ Developed as part of a **Capstone Project (Honours)** at *R.M.K. Engineering Col
 ## 🖥️ Running the Application
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/SharveshGuru/Cryptocurrency-Intelligence-Platform
+git clone https://github.com/SharveshGuru/Cryptocurrency-Analytics-and-Prospects-Prediction
 cd Crypto-Analytics-Prediction
 ```
 ### 2️⃣ Install Dependencies
